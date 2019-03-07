@@ -1,0 +1,2 @@
+# ajedrez
+Tablero de ajedrez
